@@ -1,3 +1,14 @@
+Instructions
+
+
+Create two new GitHub repositories and name them Bootstrap-Portfolio and Responsive-Portfolio.
+Clone these repositories to your computer.
+
+
+
+Assignment One Instructions (Bootstrap)
+
+
 Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
 Using Bootstrap, recreate your portfolio site with the following items:
 
@@ -12,14 +23,11 @@ eg. On an xs screen, content should take up the entire screen. On sm and larger 
 
 
 Responsive images
-<!-- 
+
 
 BONUS
    Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation)
 
 
 Your Bootstrap solution should minimize use of media queries.
-Deploy your new Bootstrap-powered portfolio to GitHub Pages. -->
-
-
-
+Deploy your new Bootstrap-powered portfolio to GitHub Pages.
